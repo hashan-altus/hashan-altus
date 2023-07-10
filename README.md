@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hashan
 - 👀 I’m a developer...
 - 🌱 Learning and working with 🐍
-- 📫 How to reach me -> no way reaching me !
+- 📫 How to reach me -> MS Teams !
 
 <!---
 hashan-altus/hashan-altus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
